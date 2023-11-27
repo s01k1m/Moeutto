@@ -69,10 +69,10 @@
 ![Redux](https://img.shields.io/badge/Redux-764ABC.svg?&style=for-the-badge&logo=Redux&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?&style=for-the-badge&logo=Tailwind%20CSS&logoColor=white)
 ### AI & ML
-
+![Pytorch](https://img.shields.io/badge/Pytorch-EE4C2C?style=for-the-badge&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/openai-412991.svg?&style=for-the-badge&logo=openai&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-3178C6?style=for-the-badge&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS-00ADD8?style=for-the-badge&logoColor=white)
+
 ### DataBase
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
@@ -80,10 +80,11 @@
 ### Storage
 
 ![Amazon S3](https://img.shields.io/badge/amazons3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
-![SageMaker](https://img.shields.io/badge/sagemaker-569A31?style=for-the-badge&logoColor=white)
 ### AWS Server
-
 ![Amazon EC2](https://img.shields.io/badge/amazonec2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)
+![SageMaker](https://img.shields.io/badge/sagemaker-FF9900?style=for-the-badge&logoColor=white)
+
+
 ### CI/CD & Infra Tools
 
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939.svg?&style=for-the-badge&logo=Jenkins&logoColor=white)
